@@ -1,0 +1,692 @@
+[
+  {
+    "doc_id": "PMID_41563617",
+    "source": "pubmed",
+    "chunks": [
+      {
+        "chunk_id": "PMID_41563617_chunk_0",
+        "sentences": [
+          "To compare the functional and anatomical outcomes of pars plana vitrectomy (PPV) with or without internal limiting membrane (ILM) peeling in patients suffering with non-resolving vitreous hemorrhage and tractional retinal detachment.",
+          "Fifty-seven patients (57 eyes) suffering from PDR were randomly assigned to undergo PPV with ILM peeling (n = 26) or without ILM peeling (n = 31).",
+          "Outcomes assessed over a 6-month follow-up included best-corrected visual acuity (BCVA), need for additional anti-VEGF injections, frequency of reoperations, central macular thickness (CMT), development of epiretinal membrane (ERM), macular traction, and vascular parameters derived from OCT imaging.",
+          "Both groups showed statistically significant improvements in BCVA postoperatively (p < 0.001), with no significant difference between them (p = 0.846).",
+          "The ILM peeling group required fewer repeat anti-VEGF injections (7.7% vs. 35.5%, p = 0.030) and exhibited a significantly lower incidence of secondary ERM (11.5% vs. 51.6%, p = 0.004).",
+          "ERM formation correlated with iatrogenic retinal tears (p = 0.007) and tractional retinal detachment (TRD) (p < 0.001).",
+          "Reoperations for ERM removal occurred exclusively in the non-ILM peeling group.",
+          "No significant intergroup differences were found in CMT, foveal avascular zone (FAZ) area, or vessel density."
+        ]
+      },
+      {
+        "chunk_id": "PMID_41563617_chunk_1",
+        "sentences": [
+          "Reoperations for ERM removal occurred exclusively in the non-ILM peeling group.",
+          "No significant intergroup differences were found in CMT, foveal avascular zone (FAZ) area, or vessel density.",
+          "ILM peeling during diabetic vitrectomy effectively minimizes the risk of postoperative ERM formation and reduces the need for further Anti-VEGF injections for DME.",
+          "However, it does not confer a significant advantage in terms of visual acuity improvements."
+        ]
+      }
+    ],
+    "meta": {
+      "abstract_only": true
+    }
+  },
+  {
+    "doc_id": "PMID_41617091",
+    "source": "pubmed",
+    "chunks": [
+      {
+        "chunk_id": "PMID_41617091_chunk_0",
+        "sentences": [
+          "There have been multiple attempts to identify biological factors that predict long-term weight change.",
+          "Previous investigators have theorized that variations in how humans metabolize dietary macronutrients (storage as opposed to oxidation) might be one of these characteristics, but to date there has been no effort to address this hypothesis.",
+          "We used a retrospective cohort study design to test the hypothesis that greater meal fat storage in subcutaneous adipose tissue would be associated with greater future weight gain.",
+          "Body composition, demographic, and meal fatty acid metabolism data was collated from 154 non-obese research volunteers who participated in studies conducted at Mayo Clinic between 1997 and 2012 that used either The long-term (19 \u00b1 7) years weight change for females was correlated with meal fat storage (P = 0.003, r=0.38) and meal fat oxidation measured using The finding that weight change is correlated with dietary fatty acid metabolism for adult, non-obese females suggests that inter-individual variations in how women process dietary fat can influence long-term energy balance.",
+          "NCT00254371; the other protocols were not considered clinical trials at the time they were conducted.",
+          "https://clinicaltrials.gov/study/NCT00254371?term=testosterone&cond=%22Sarcopenia%22&viewType=Table&rank=9."
+        ]
+      }
+    ],
+    "meta": {
+      "abstract_only": true
+    }
+  },
+  {
+    "doc_id": "PMID_41623136",
+    "source": "pubmed",
+    "chunks": [
+      {
+        "chunk_id": "PMID_41623136_chunk_0",
+        "sentences": [
+          "As type 2 diabetes (T2D) continues to rise globally and remains a major driver of cardiovascular disease, its remission has emerged as a therapeutic target.",
+          "Current evidence supports bariatric surgery and low-calorie diets with meal replacements.",
+          "No clinical trial to date has evaluated plant-based dietary alternatives as an intensive lifestyle intervention (ILI) strategy, despite the emphasis on plant-based diets in current clinical practice guidelines for diabetes and cardiovascular disease.",
+          "The REmission of diabetes using a PlAnt-based weight loss InteRvention (REPAIR) trial will assess whether a 52-week plant-based ILI targeting \u226515% weight loss is effective for diabetes remission in a multi-ethnic Canadian population.",
+          "The REPAIR trial is a prospective, randomised, 2-arm, open-label, blinded-endpoint efficacy trial.",
+          "Participants will include 160 adults with early T2D (<6 years) and living with obesity.",
+          "They will be randomised to standard of care or a 2-phase ILI targeting \u226515% weight loss consisting of a 12-week weight loss phase on a plant-based total diet meal replacement, followed by a 40-week weight loss maintenance phase on a plant-based dietary pattern combined with a 16-week structured exercise program, and a 52-week (19-session) sustainable behaviour change curriculum.",
+          "The primary outcome is diabetes remission (HbA1c <6.5% without glucose-lowering medication for \u22653 months) and the key secondary outcome is the proportion achieving \u226515% weight loss at 52 weeks."
+        ]
+      },
+      {
+        "chunk_id": "PMID_41623136_chunk_1",
+        "sentences": [
+          "They will be randomised to standard of care or a 2-phase ILI targeting \u226515% weight loss consisting of a 12-week weight loss phase on a plant-based total diet meal replacement, followed by a 40-week weight loss maintenance phase on a plant-based dietary pattern combined with a 16-week structured exercise program, and a 52-week (19-session) sustainable behaviour change curriculum.",
+          "The primary outcome is diabetes remission (HbA1c <6.5% without glucose-lowering medication for \u22653 months) and the key secondary outcome is the proportion achieving \u226515% weight loss at 52 weeks.",
+          "This trial will provide high-quality clinical evidence on the use of plant-based ILIs to address the epidemics of obesity and diabetes to inform public health policies and programs in Canada and beyond."
+        ]
+      }
+    ],
+    "meta": {
+      "abstract_only": true
+    }
+  },
+  {
+    "doc_id": "PMID_41639820",
+    "source": "pubmed",
+    "chunks": [
+      {
+        "chunk_id": "PMID_41639820_chunk_0",
+        "sentences": [
+          "This study assessed serum Adiponectin (APN) and Soluble Intercellular Adhesion Molecule-1 (sICAM-1) levels in diabetic foot ulcer (DFU) patients for evaluating disease severity and prognosis.",
+          "In this retrospective cohort study, 92 DFU patients were assessed during a 6-month outcome evaluation period and categorized by ulcer healing into good prognosis (healed, n = 50) or poor prognosis (unhealed, n = 42).",
+          "Serum APN and sICAM-1 levels were measured by Enzyme-Linked Immunosorbent Assay (ELISA) and and analyzed for correlations with disease severity and infection grades.",
+          "Receiver Operating Characteristic (ROC) curves evaluated their predictive value for poor prognosis.",
+          "Serum APN was negatively correlated with infection and disease severity, whereas sICAM-1 exhibited a positive correlation.",
+          "The good prognosis group had significantly higher APN and lower sICAM-1 levels compared to the poor prognosis group.",
+          "Both biomarkers predicted poor prognosis: APN (Area Under the Curve (AUC) = 0.765), sICAM-1 (AUC = 0.841).",
+          "Combining both markers yielded an AUC of 0.853."
+        ]
+      },
+      {
+        "chunk_id": "PMID_41639820_chunk_1",
+        "sentences": [
+          "Both biomarkers predicted poor prognosis: APN (Area Under the Curve (AUC) = 0.765), sICAM-1 (AUC = 0.841).",
+          "Combining both markers yielded an AUC of 0.853.",
+          "Serum APN and sICAM-1 levels are associated with DFU severity and prognosis, supporting their potential as predictive biomarkers in clinical practice.",
+          "Not applicable."
+        ]
+      }
+    ],
+    "meta": {
+      "abstract_only": true
+    }
+  },
+  {
+    "doc_id": "PMID_41649911",
+    "source": "pubmed",
+    "chunks": [
+      {
+        "chunk_id": "PMID_41649911_chunk_0",
+        "sentences": [
+          "Debridement is the removal of nonviable, contaminated, or foreign material from within or near a wound until healthy adjacent tissue is exposed.",
+          "In sharp debridement, patients are expected to experience greater levels of pain because of cell damage.",
+          "This study evaluated the effect of applying cold 0.9% sodium chloride (NaCl) during sharp debridement on pain in patients with diabetic foot.",
+          "A randomised, controlled, single-blind trial was performed with inpatients randomised to two equally sized groups: an experimental group and a control group.",
+          "During sharp debridement, cold (4-8\u00b0C) 0.9% NaCl was applied to the wounds in the experimental group while room temperature (18-26\u00b0C) 0.9% NaCl was used in the control group.",
+          "Data were collected using a questionnaire form, a visual analogue scale (VAS) and a wound area form.",
+          "The VAS was applied in both groups before and during the procedure.",
+          "Descriptive statistics and Chi-squared, Mann-Whitney U, Student's t and Wilcoxon signed-rank tests were used to analyse the data."
+        ]
+      },
+      {
+        "chunk_id": "PMID_41649911_chunk_1",
+        "sentences": [
+          "The VAS was applied in both groups before and during the procedure.",
+          "Descriptive statistics and Chi-squared, Mann-Whitney U, Student's t and Wilcoxon signed-rank tests were used to analyse the data.",
+          "A total of 64 patients were included in the trial (32 in each group).",
+          "Most of the participants in the experimental and control groups were male (84.4% and 65.6%, respectively) and the mean age was 61.8 years and 60.6 years, respectively.",
+          "The participants were homogeneously distributed in terms of sociodemographic, clinical, laboratory and wound characteristics, with no statistically significant differences between the groups (p>0.05).",
+          "Compared to pre-procedure values, VAS score decreased significantly during the procedure in the experimental group (p<0.001) but increased significantly in the control group (p<0.001).",
+          "VAS scores in the experimental group were significantly higher before (p=0.003) and lower during (p<0.001) the procedure compared with the control group.",
+          "In this trial, applying cold 0.9% NaCl during sharp debridement reduced pain in patients with diabetic foot."
+        ]
+      },
+      {
+        "chunk_id": "PMID_41649911_chunk_2",
+        "sentences": [
+          "VAS scores in the experimental group were significantly higher before (p=0.003) and lower during (p<0.001) the procedure compared with the control group.",
+          "In this trial, applying cold 0.9% NaCl during sharp debridement reduced pain in patients with diabetic foot."
+        ]
+      }
+    ],
+    "meta": {
+      "abstract_only": true
+    }
+  },
+  {
+    "doc_id": "PMID_41649457",
+    "source": "pubmed",
+    "chunks": [
+      {
+        "chunk_id": "PMID_41649457_chunk_0",
+        "sentences": [
+          "To evaluate the safety and efficacy of a novel endocapsular device used during cataract surgery at the 12-month follow-up.",
+          "A cohort study was conducted in a university-affiliated private practice.",
+          "Adults with age-related cataracts, intraocular lens power between 14 and 26 diopters, and no other ocular pathology were included prospectively.",
+          "Exclusion criteria included diabetes, previous ocular surgery, cardiac conditions, and autoimmune diseases.",
+          "One eye per patient was randomly assigned to receive the device before intraocular lens implantation.",
+          "Follow-ups were conducted preoperatively and at 1 day, 1 week, and 1, 3, 6, and 12 months postoperatively.",
+          "The primary safety endpoint was the incidence of adverse events; the primary efficacy endpoint was the incidence of posterior capsule opacification (PCO) postoperatively at 12 months.",
+          "A control group was formed retrospectively for comparison of PCO at 12 months."
+        ]
+      },
+      {
+        "chunk_id": "PMID_41649457_chunk_1",
+        "sentences": [
+          "The primary safety endpoint was the incidence of adverse events; the primary efficacy endpoint was the incidence of posterior capsule opacification (PCO) postoperatively at 12 months.",
+          "A control group was formed retrospectively for comparison of PCO at 12 months.",
+          "Spherical equivalent, corrected distance visual acuity, and intraocular pressure were also measured.",
+          "A total of 121 patients were enrolled.",
+          "Sixteen adverse events occurred in 12 patients; all resolved and were deemed unrelated to the device.",
+          "PCO incidence at 12 months was 0.83% in the experimental group vs. 13.0% in the control group.",
+          "The spherical equivalent stabilized by 3 months.",
+          "At 12 months, the mean corrected distance visual acuity and intraocular pressure were 0.03 \u00b1 0.07 logarithm of the minimum angle of resolution and 11.23 \u00b1 2.03 mm"
+        ]
+      },
+      {
+        "chunk_id": "PMID_41649457_chunk_2",
+        "sentences": [
+          "The spherical equivalent stabilized by 3 months.",
+          "At 12 months, the mean corrected distance visual acuity and intraocular pressure were 0.03 \u00b1 0.07 logarithm of the minimum angle of resolution and 11.23 \u00b1 2.03 mm",
+          "Hg, respectively.",
+          "The new device seems to be safe and have a beneficial impact on PCO up to at least 12 months postoperatively.",
+          "We report our experience with a novel, safe, endocapsular open capsule device that shows promise in preventing posterior capsule opacification in real-world clinical settings."
+        ]
+      }
+    ],
+    "meta": {
+      "abstract_only": true
+    }
+  },
+  {
+    "doc_id": "PMID_41574641",
+    "source": "pubmed",
+    "chunks": [
+      {
+        "chunk_id": "PMID_41574641_chunk_0",
+        "sentences": [
+          "The aim in this human trial is to compare the efficacy and safety of polygalacturonic-caprylic acid (PG-CAP) ointment to MediHoney in chronic wounds at three international medical centres.",
+          "In this prospective open-label study, patients with chronic full-thickness wounds were randomised to daily treatment with PG-CAP ointment or MediHoney.",
+          "Assessments were obtained weekly for 6 weeks.",
+          "The validated Pressure Ulcer Scale for Healing (PUSH) score was used to track healing.",
+          "Efficacies were compared using the Wilcoxon rank-sum test for continuous variables and chi-square or Fisher's exact test for categorical variables.",
+          "Twenty-six patients with chronic wounds were included.",
+          "Baseline characteristics were comparable between the groups; however, the history of diabetes mellitus was higher in the PG-CAP group (p = 0.011).",
+          "All 13 PG-CAP patients showed improvement (100%), compared to only 69% of the 13 MediHoney patients (p = 0.023)."
+        ]
+      },
+      {
+        "chunk_id": "PMID_41574641_chunk_1",
+        "sentences": [
+          "Baseline characteristics were comparable between the groups; however, the history of diabetes mellitus was higher in the PG-CAP group (p = 0.011).",
+          "All 13 PG-CAP patients showed improvement (100%), compared to only 69% of the 13 MediHoney patients (p = 0.023).",
+          "Half of the failures in the MediHoney arm were associated with death (15%).",
+          "No failures, adverse events or deaths occurred in the PG-CAP arm.",
+          "PG-CAP wound ointment is a novel combination of two plant-based compounds that pose minimal risk of promoting antimicrobial resistance, was highly effective for eradicating wound-pathogen biofilms in vitro and promoted chronic wound healing in vivo with minimal inflammatory reactions.",
+          "Our findings support PG-CAP as safe, noninferior and possibly more effective than MediHoney in healing chronic contaminated wounds."
+        ]
+      }
+    ],
+    "meta": {
+      "abstract_only": true
+    }
+  },
+  {
+    "doc_id": "PMID_41553109",
+    "source": "pubmed",
+    "chunks": [
+      {
+        "chunk_id": "PMID_41553109_chunk_0",
+        "sentences": [
+          "Identifying the optimal metabolic bariatric surgery approach for patients with severe obesity with a BMI \u226550 kg/m2 remains challenging.",
+          "The aim of this long-term follow-up of a randomized clinical trial (RCT) was to compare distal long alimentary limb Roux-en-Y gastric bypass (RYGB) with standard RYGB for 10-year weight loss and nutritional outcomes.",
+          "Secondary analysis of a 10-year follow-up of an RCT with initially 113 patients (BMI 50-60 kg/m2) randomized to either standard (n = 57, 50 cm biliopancreatic/150 cm alimentary limb) or distal long alimentary limb RYGB (n = 56, 50 cm biliopancreatic/150 cm common limb) from March 2011 to April 2013 at two Norwegian hospitals.",
+          "The final data collection date was 15 August 2023.",
+          "The primary focus was weight loss (BMI reduction, %total weight loss) and other secondary outcomes included cardiometabolic risk factors, nutritional status, and health-related quality of life (HRQOL).",
+          "Of 113 patients, 79 (69.9%, mean age 50 (s.d. 8.7) years, 50 (63%) females) patients were available for 10-year follow-up (41 standard RYGB, 38 distal RYGB).",
+          "The 10-year mortality rate was 3.5% (4/113) and all deaths occurred after distal RYGB.",
+          "One death may have been associated with the surgery in a patient with previously undiagnosed liver cirrhosis at the time of operation."
+        ]
+      },
+      {
+        "chunk_id": "PMID_41553109_chunk_1",
+        "sentences": [
+          "The 10-year mortality rate was 3.5% (4/113) and all deaths occurred after distal RYGB.",
+          "One death may have been associated with the surgery in a patient with previously undiagnosed liver cirrhosis at the time of operation.",
+          "Mean BMI reduction from baseline was 12.0 kg/m2 (95% c.i., 10.8 to 13.2) after standard RYGB and 14.7 kg/m2 (95% c.i., 13.5 to 15.9) after distal RYGB with a between-group difference of 2.7 kg/m2 (95% c.i., 1.0 to 4.5, P = 0.002).",
+          "The mean percentage total weight loss from baseline was 23.0% (95% c.i., 20.8 to 25.2) after standard RYGB and 28.2% (95% c.i., 26.0 to 30.5) after distal RYGB, with a between-group difference of 5.3% (95% c.i., 2.1 to 8.4, P = 0.001).",
+          "The distal RYGB group had higher rates of malnutrition (1/57 standard versus 5/56 distal; P = 0.12), diarrhoea (7/57 standard versus 15/56 distal; P = 0.05), and vitamin D deficiency (24/41 standard versus 32/38 distal; P = 0.01).",
+          "There were no differences between the groups in the prevalence of type 2 diabetes, hypertension, dyslipidaemia, or metabolic syndrome at 10-year follow-up.",
+          "Four patients underwent revisional surgery due to malnutrition after distal RYGB.",
+          "There were no statistically significant differences in HRQOL scores between the groups at 10 years (SF-36 physical 44.2 versus 44.1, mental 50.3 versus 47.3; OWLQOL 63 versus 61; all P > 0.2)."
+        ]
+      },
+      {
+        "chunk_id": "PMID_41553109_chunk_2",
+        "sentences": [
+          "Four patients underwent revisional surgery due to malnutrition after distal RYGB.",
+          "There were no statistically significant differences in HRQOL scores between the groups at 10 years (SF-36 physical 44.2 versus 44.1, mental 50.3 versus 47.3; OWLQOL 63 versus 61; all P > 0.2).",
+          "Distal long alimentary limb RYGB resulted in greater weight loss after 10 years with a higher risk of malnutrition, diarrhoea, and vitamin D deficiency.",
+          "Clinicaltrials.gov NCT00821197."
+        ]
+      }
+    ],
+    "meta": {
+      "abstract_only": true
+    }
+  },
+  {
+    "doc_id": "PMID_41640096",
+    "source": "pubmed",
+    "chunks": [
+      {
+        "chunk_id": "PMID_41640096_chunk_0",
+        "sentences": [
+          "The Prevention of Lower Urinary Tract Symptoms (PLUS) Research Consortium, supported by the National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK), has had a successful and productive ten years, accomplishing several major achievements, including over 65 peer-reviewed publications.",
+          "This multicenter, transdisciplinary Consortium developed the concept of bladder health and studied it systematically in RISE FOR HEALTH (RISE).",
+          "The resources developed and the data generated will be made available for use through the NIDDK repository, providing the content for many more accomplishments in the field of bladder health.",
+          "Clinical Trial Registration: NCT05365971."
+        ]
+      }
+    ],
+    "meta": {
+      "abstract_only": true
+    }
+  },
+  {
+    "doc_id": "PMID_41559729",
+    "source": "pubmed",
+    "chunks": [
+      {
+        "chunk_id": "PMID_41559729_chunk_0",
+        "sentences": [
+          "Women with a history of gestational diabetes mellitus (GDM) have a substantial 20-50% risk of developing diabetes postpartum.",
+          "Understanding the precise mechanisms by which lifestyle interventions prevent diabetes is crucial for optimizing clinical care.",
+          "This study aimed to quantify the extent to which weight change mediates the observed 46% reduction in postpartum diabetes risk achieved by an intensive lifestyle intervention in women with prior GDM.",
+          "This secondary mediation analysis utilized data from the Tianjin GDM Prevention Program (NCT01554358), a large-scale, 4.5-year randomized controlled trial conducted in China.",
+          "A total of 1180 women with a recent history of GDM diagnosed according to the 1999 WHO criteria (mean age 32.4 \u00b1 3.50 years; mean BMI 23.9 \u00b1 3.83 kg/m Weight reduction demonstrated a continuous, dose-dependent association with a lower incidence of postpartum diabetes, without evidence of a threshold effect.",
+          "Overall, changes in weight indices mediated 13.0-18.8% of the intervention's protective effect.",
+          "This mediation proportion was significantly higher among women who were overweight at baseline, accounting for 24.3-34.7% of the intervention's benefit.",
+          "Within this overweight subgroup, changes in waist circumference and body fat individually accounted for over 30% of the total mediated effect."
+        ]
+      },
+      {
+        "chunk_id": "PMID_41559729_chunk_1",
+        "sentences": [
+          "This mediation proportion was significantly higher among women who were overweight at baseline, accounting for 24.3-34.7% of the intervention's benefit.",
+          "Within this overweight subgroup, changes in waist circumference and body fat individually accounted for over 30% of the total mediated effect.",
+          "Weight loss is a quantifiable and clinically relevant, though partial, mechanism by which lifestyle intervention reduces postpartum diabetes risk, particularly in overweight women with a history of GDM.",
+          "These findings underscore the importance of continuous monitoring and management of even modest weight changes as a key component of diabetes prevention strategies for this high-risk population.",
+          "NCT01554358.",
+          "Retrospectively registered clinical trial."
+        ]
+      }
+    ],
+    "meta": {
+      "abstract_only": true
+    }
+  },
+  {
+    "doc_id": "PMID_41636548",
+    "source": "pubmed",
+    "chunks": [
+      {
+        "chunk_id": "PMID_41636548_chunk_0",
+        "sentences": [
+          "Glucagon-like peptide-1 receptor agonists and glucose-dependent insulinotropic polypeptide coagonists have revolutionized the treatment of type 2 diabetes and obesity.",
+          "They demonstrate significant cardiovascular benefits, including a reduction in major adverse cardiovascular events and heart failure hospitalizations.",
+          "However, these medications are associated with substantial lean body mass loss, comprising 15-45% of total weight reduction.",
+          "This review examines the pathophysiological mechanisms underlying muscle loss with incretin-based therapies, analyzes clinical trial data on body composition changes, explores the bidirectional relationship between sarcopenia and cardiovascular disease, and evaluates emerging pharmacological and lifestyle interventions to preserve muscle mass.",
+          "Understanding and mitigating muscle loss is critical for optimizing cardiovascular outcomes, particularly in older adults and those with established heart disease, where sarcopenia is associated with increased mortality and functional decline."
+        ]
+      }
+    ],
+    "meta": {
+      "abstract_only": true
+    }
+  },
+  {
+    "doc_id": "PMID_41631344",
+    "source": "pubmed",
+    "chunks": [
+      {
+        "chunk_id": "PMID_41631344_chunk_0",
+        "sentences": [
+          "Delayed gastric emptying is a known effect of glucagon-like peptide-1 receptor agonists, such as semaglutide.",
+          "While tachyphylaxis has been reported, recent clinical data indicate an increased risk of residual gastric content on pre-operative gastric ultrasound in patients who are fasted.",
+          "However, the limited available data do not control for several important potential confounders.",
+          "We conducted a prospective, multicentre, matched case-control study, enrolling patients receiving semaglutide treatment for diabetes mellitus or weight loss and having elective surgery.",
+          "For each patient receiving semaglutide treatment, we included a matched control based on age, BMI and diabetes mellitus status in a 1:1 ratio.",
+          "In both cohorts, gastric ultrasound was performed in the supine position, followed by the right lateral decubitus position.",
+          "A patient was considered to have a 'full stomach' if solid gastric content was visible in any position or if the calculated gastric volume in the right lateral decubitus position exceeded 1.5 ml.kg We enrolled 44 patients receiving semaglutide treatment and 44 matched controls.",
+          "A full stomach was observed in 21/43 (49%) of patients receiving semaglutide treatment compared with 8/44 (18%) of controls (odds ratio 4.29, 95%CI 1.63-11.29, p = 0.003)."
+        ]
+      },
+      {
+        "chunk_id": "PMID_41631344_chunk_1",
+        "sentences": [
+          "A patient was considered to have a 'full stomach' if solid gastric content was visible in any position or if the calculated gastric volume in the right lateral decubitus position exceeded 1.5 ml.kg We enrolled 44 patients receiving semaglutide treatment and 44 matched controls.",
+          "A full stomach was observed in 21/43 (49%) of patients receiving semaglutide treatment compared with 8/44 (18%) of controls (odds ratio 4.29, 95%CI 1.63-11.29, p = 0.003).",
+          "Solid gastric contents were significantly more frequent in patients receiving semaglutide treatment (18/43 (42%)) compared with controls (3/44 (7%), odds ratio 9.85, 95%CI 2.57-37.76, p < 0.001).",
+          "Calculated gastric volume did not differ significantly.",
+          "This study compared gastric ultrasound findings in patients receiving semaglutide treatment with matched controls, thereby accounting directly for baseline delayed gastric emptying.",
+          "Our findings highlight a persistently elevated pulmonary aspiration risk, even after withholding one administration of semaglutide and accounting for age, diabetes mellitus status and obesity.",
+          "Where available, gastric ultrasound should be used to guide individualised anaesthetic management and optimise peri-operative safety.",
+          "We studied people who were having planned surgery."
+        ]
+      },
+      {
+        "chunk_id": "PMID_41631344_chunk_2",
+        "sentences": [
+          "Where available, gastric ultrasound should be used to guide individualised anaesthetic management and optimise peri-operative safety.",
+          "We studied people who were having planned surgery.",
+          "Half of them were taking semaglutide (a medicine used for diabetes or weight loss), and the other half were similar people who were not taking it.",
+          "Before surgery, doctors did an ultrasound scan of the stomach to see if there was food left inside.",
+          "Semaglutide can slow how fast food leaves the stomach.",
+          "This can be dangerous during surgery because food in the stomach can go into the lungs while a person is asleep.",
+          "We wanted to check if people taking semaglutide still had food in their stomachs, even after fasting, and compare them fairly with similar people not taking the medicine.",
+          "Nearly half of the people taking semaglutide still had food in their stomach before surgery."
+        ]
+      },
+      {
+        "chunk_id": "PMID_41631344_chunk_3",
+        "sentences": [
+          "We wanted to check if people taking semaglutide still had food in their stomachs, even after fasting, and compare them fairly with similar people not taking the medicine.",
+          "Nearly half of the people taking semaglutide still had food in their stomach before surgery.",
+          "Only about 1 in 5 people not taking semaglutide had food in their stomach.",
+          "Solid food was much more common in the stomachs of people taking semaglutide.",
+          "The total amount of stomach contents was similar between groups, but the type of content mattered.",
+          "These results show that people taking semaglutide may have a higher risk during surgery.",
+          "Using stomach ultrasound can help doctors plan safer anaesthesia for each patient."
+        ]
+      },
+      {
+        "chunk_id": "PMID_41631344_chunk_4",
+        "sentences": [
+          "Using stomach ultrasound can help doctors plan safer anaesthesia for each patient."
+        ]
+      }
+    ],
+    "meta": {
+      "abstract_only": true
+    }
+  },
+  {
+    "doc_id": "PMID_41622389",
+    "source": "pubmed",
+    "chunks": [
+      {
+        "chunk_id": "PMID_41622389_chunk_0",
+        "sentences": [
+          "Calsequestrin 2 (CASQ2) has emerged as a central sensor and modulator of calcium (Ca"
+        ]
+      }
+    ],
+    "meta": {
+      "abstract_only": true
+    }
+  },
+  {
+    "doc_id": "PMID_41615170",
+    "source": "pubmed",
+    "chunks": [
+      {
+        "chunk_id": "PMID_41615170_chunk_0",
+        "sentences": [
+          "Contrast-induced nephropathy (CIN) is a common complication following angiographic procedures, potentially related to the volume of contrast agent administered.",
+          "However, it is unclear whether the type of contrast also influences its occurrence.",
+          "To evaluate the interaction between contrast volume and contrast type (iso-osmolar vs low-osmolar) in the development of CIN.",
+          "A post hoc subanalysis was performed on patients undergoing diagnostic or therapeutic coronary procedures who were randomized 1:1 to receive low-osmolar or iso-osmolar contrast media.",
+          "The overall sample (n = 2,268) was stratified by contrast volume:",
+          "Group I (< 150 mL; n = 1,985) and Group II (\u2265 150 mL; n = 283), and groups were compared by contrast type.",
+          "The primary endpoint was CIN at 48- and 96-hours post-procedure.",
+          "CIN was defined as a \u2265 25% or \u2265 0.5 mg/dL increase in serum creatinine from baseline at 48 hours."
+        ]
+      },
+      {
+        "chunk_id": "PMID_41615170_chunk_1",
+        "sentences": [
+          "The primary endpoint was CIN at 48- and 96-hours post-procedure.",
+          "CIN was defined as a \u2265 25% or \u2265 0.5 mg/dL increase in serum creatinine from baseline at 48 hours.",
+          "The effects of contrast type and volume were tested with logistic regression including an interaction term, adjusted for acute coronary syndrome, ventricular dysfunction, baseline creatinine, sex, and age (p < 0.05).",
+          "We included 2,268 consecutive patients; two-thirds were male; hypertension was present in 85%, diabetes in 52%, and chronic kidney disease in 31%.",
+          "Mean contrast volume was 75.3 \u00b1 28.0 mL in Group I and 188.6 \u00b1 46.9 mL in Group II.",
+          "The incidence of CIN was higher with greater volume (14.8% vs 17.7%) but not statistically significant (adjusted odds ratio = 1.25; 95% CI = 0.89-1.73; p = 0.191).",
+          "The model with the interaction term showed no evidence of an interaction between the type of contrast and volume (p > 0.999).",
+          "The type of contrast was not associated with CIN, even among patients exposed to higher contrast volumes."
+        ]
+      },
+      {
+        "chunk_id": "PMID_41615170_chunk_2",
+        "sentences": [
+          "The model with the interaction term showed no evidence of an interaction between the type of contrast and volume (p > 0.999).",
+          "The type of contrast was not associated with CIN, even among patients exposed to higher contrast volumes.",
+          "A nefropatia induzida por contraste (NIC)",
+          "\u00e9 complica\u00e7\u00e3o frequente ap\u00f3s procedimentos angiogr\u00e1ficos e pode estar relacionada ao volume de contraste administrado.",
+          "Permanece incerto se o tipo de contraste tamb\u00e9m influencia sua ocorr\u00eancia.",
+          "Avaliar a intera\u00e7\u00e3o entre volume e tipo de contraste (iso-osmolar ou de baixa osmolaridade)",
+          "no desenvolvimento de NIC.",
+          "Suban\u00e1lise post hoc de pacientes submetidos a procedimentos coron\u00e1rios diagn\u00f3sticos e terap\u00eauticos, randomizados 1:1 para contraste de baixa osmolaridade ou iso-osmolaridade."
+        ]
+      },
+      {
+        "chunk_id": "PMID_41615170_chunk_3",
+        "sentences": [
+          "no desenvolvimento de NIC.",
+          "Suban\u00e1lise post hoc de pacientes submetidos a procedimentos coron\u00e1rios diagn\u00f3sticos e terap\u00eauticos, randomizados 1:1 para contraste de baixa osmolaridade ou iso-osmolaridade.",
+          "A amostra total (n = 2.268) foi estratificada por volume: Grupo I (< 150 ml; n = 1.985) e Grupo II (\u2265 150 ml; n = 283), e comparada segundo o tipo de contraste.",
+          "O desfecho prim\u00e1rio foi NIC em 48 e 96 horas ap\u00f3s o procedimento.",
+          "NIC foi definida como eleva\u00e7\u00e3o da creatinina s\u00e9rica >",
+          "25% ou \u2265 0,5",
+          "mg/dl em rela\u00e7\u00e3o ao n\u00edvel basal ap\u00f3s 48 horas.",
+          "O efeito do tipo e do volume de contraste foi testado por regress\u00e3o log\u00edstica com termo de intera\u00e7\u00e3o, ajustada para s\u00edndrome coron\u00e1ria aguda, disfun\u00e7\u00e3o ventricular, creatinina basal, sexo e idade (valor p < 0,05)."
+        ]
+      },
+      {
+        "chunk_id": "PMID_41615170_chunk_4",
+        "sentences": [
+          "mg/dl em rela\u00e7\u00e3o ao n\u00edvel basal ap\u00f3s 48 horas.",
+          "O efeito do tipo e do volume de contraste foi testado por regress\u00e3o log\u00edstica com termo de intera\u00e7\u00e3o, ajustada para s\u00edndrome coron\u00e1ria aguda, disfun\u00e7\u00e3o ventricular, creatinina basal, sexo e idade (valor p < 0,05).",
+          "Foram inclu\u00eddos 2.268 pacientes consecutivos; dois ter\u00e7os do sexo masculino; hipertens\u00e3o arterial sist\u00eamica em 85%, diabetes melito em 52% e doen\u00e7a renal cr\u00f4nica em 31%.",
+          "No Grupo I, o volume m\u00e9dio de contraste foi 75,3 \u00b1",
+          "28,0",
+          "ml; no Grupo II, 188,6 \u00b1",
+          "46,9",
+          "ml."
+        ]
+      },
+      {
+        "chunk_id": "PMID_41615170_chunk_5",
+        "sentences": [
+          "46,9",
+          "ml.",
+          "A incid\u00eancia de NIC foi maior",
+          "no grupo com maior volume (14,8% vs. 17,7%), sem signific\u00e2ncia estat\u00edstica (odds ratio ajustado = 1,25; intervalo de confian\u00e7a de 95% 0,89-1,73; p = 0,191).",
+          "O modelo com termo de intera\u00e7\u00e3o n\u00e3o evidenciou correla\u00e7\u00e3o entre tipo de contraste e volume (p > 0,999).",
+          "N\u00e3o houve associa\u00e7\u00e3o entre o tipo de contraste e a ocorr\u00eancia de NIC, mesmo entre pacientes expostos a maiores volumes de contraste."
+        ]
+      }
+    ],
+    "meta": {
+      "abstract_only": true
+    }
+  },
+  {
+    "doc_id": "PMID_41609947",
+    "source": "pubmed",
+    "chunks": [
+      {
+        "chunk_id": "PMID_41609947_chunk_0",
+        "sentences": [
+          "The DANFLU-1 trial suggested lower incidence of hospitalizations for pneumonia and influenza, respiratory disease and all-cause mortality among older adults receiving high-dose (HD-IV) versus standard-dose (SD-IV) influenza vaccine.",
+          "This study assessed the relative effectiveness of HD-IV versus SD-IV according to comorbidity in elderly individuals.",
+          "This was a post-hoc analysis of the DANFLU-1 randomized controlled feasibility trial of HD-IV versus SD-IV conducted during the 2021-2022 influenza season in adults aged 65-79 years.",
+          "Outcomes assessed included influenza-related, respiratory, and cardiovascular hospitalizations, and mortality.",
+          "We tested for effect modification by level of the Charlson Comorbidity Index (CCI) using ICD-10 codes up to 10 years prior to randomization.",
+          "Of the 12,477 randomly assigned participants (mean age 71.7 \u00b1 3.9 years, 47.1% female), 8,020 (64.3%) had CCI = 0, 3,560 (28.5%) had CCI = 1-2 and 893 (7.2%) had CCI \u2265 3.",
+          "When comparing HD-IV with SD-IV, hazard ratios of hospitalizations for pneumonia and influenza were similar across CCI groups (HR [95%CI]: 0.15",
+          "[0.03-0.68] for CCI = 0, 0.36"
+        ]
+      },
+      {
+        "chunk_id": "PMID_41609947_chunk_1",
+        "sentences": [
+          "When comparing HD-IV with SD-IV, hazard ratios of hospitalizations for pneumonia and influenza were similar across CCI groups (HR [95%CI]: 0.15",
+          "[0.03-0.68] for CCI = 0, 0.36",
+          "[0.11-1.15] for CCI = 1-2, 1.00 [0.25-4.00] for CCI \u2265 3).",
+          "Comparable patterns were found for hospitalizations for respiratory disease (0.46",
+          "[0.17-1.20] for CCI = 0, 0.67",
+          "[0.32-1.39] for CCI = 1-2, 0.66",
+          "[0.24-1.87] for CCI \u2265 3) and all-cause mortality (0.28",
+          "[0.09-0.86] for CCI = 0, 0.70"
+        ]
+      },
+      {
+        "chunk_id": "PMID_41609947_chunk_2",
+        "sentences": [
+          "[0.24-1.87] for CCI \u2265 3) and all-cause mortality (0.28",
+          "[0.09-0.86] for CCI = 0, 0.70",
+          "[0.30-1.63] for CCI = 1-2, 0.57",
+          "[0.24-1.36] for CCI \u2265 3).",
+          "There was no statistical evidence of effect modification by CCI for any outcome.",
+          "The lower incidences of clinical outcomes for HD-IV compared to SD-IV were not significantly modified by CCI.",
+          "The potential benefit of HD-IV versus SD-IV may therefore be applicable regardless of comorbidity burden.",
+          "Further research is required to confirm these findings."
+        ]
+      },
+      {
+        "chunk_id": "PMID_41609947_chunk_3",
+        "sentences": [
+          "The potential benefit of HD-IV versus SD-IV may therefore be applicable regardless of comorbidity burden.",
+          "Further research is required to confirm these findings."
+        ]
+      }
+    ],
+    "meta": {
+      "abstract_only": true
+    }
+  },
+  {
+    "doc_id": "PMID_41649918",
+    "source": "pubmed",
+    "chunks": [
+      {
+        "chunk_id": "PMID_41649918_chunk_0",
+        "sentences": [
+          "The execution of clinical trials in wound care significantly differs from, and is frequently more challenging than, those involving pharmaceutical agents.",
+          "Populations presenting with wounds (such as trauma and ulcers) are typically heterogeneous, and often exhibit a range of comorbidities and secondary factors that influence both the nature of the lesion itself and the trajectory of wound healing.",
+          "Typical comorbidities in patients with ulcers include diabetes and chronic obstructive pulmonary disease, and polypharmacy is common.",
+          "Trauma-related complications, such as haemodynamic or septic shock, are frequently observed in extensive burns and other major trauma.",
+          "Such complexity presents substantial obstacles to generating statistically robust and reliable outcomes, either because a consistent patient cohort is difficult to find, or extensive stratification may be necessary when different cohorts of patients with different types of lesions are put together into a single trial population.",
+          "This article highlights several of the methodological and operational challenges that can arise when conducting a wound care study and tries to create some upfront awareness of the pitfalls for such studies.",
+          "The author has been a chief medical officer and independent consultant to the wound care industry for >35 years, and some statements in this article are based on his personal experience and observations."
+        ]
+      },
+      {
+        "chunk_id": "PMID_41649918_chunk_1",
+        "sentences": [
+          "The author has been a chief medical officer and independent consultant to the wound care industry for >35 years, and some statements in this article are based on his personal experience and observations."
+        ]
+      }
+    ],
+    "meta": {
+      "abstract_only": true
+    }
+  },
+  {
+    "doc_id": "PMID_41635446",
+    "source": "pubmed",
+    "chunks": [
+      {
+        "chunk_id": "PMID_41635446_chunk_0",
+        "sentences": [
+          "Severe hypoglycemia (SH) in adults with type 1 diabetes mellitus (T1DM) is associated with significant morbidity and mortality; however, its underlying causes are often complex and multifactorial.",
+          "Improved tools to identify individuals at a high risk of SH are critically needed.",
+          "In this study, machine learning techniques were applied to continuous glucose monitoring (CGM) data to identify distinguishing features between individuals with and without SH episodes.",
+          "We analyzed data from the real-world study of adults with T1DM enrolled in the FGM-Japan study.",
+          "Eleven machine learning algorithms using continuous glucose monitoring (CGM) metrics were applied to identify SH and assess the relative importance of the contributing features.",
+          "The CGM metrics included mean glucose/GMI, time above range (TAR > 250 and > 180 mg/dL), time in range (TIR 70-180 mg/dL), time below range (TBR < 70 and < 54 mg/dL), coefficient of variation (%CV), and glycemic risk index (GRI).",
+          "The model performance was evaluated using the area under the receiver operating characteristic curve (AUC), accuracy, precision, recall, and F1 score.",
+          "Data from 264 adults with T1DM were analyzed."
+        ]
+      },
+      {
+        "chunk_id": "PMID_41635446_chunk_1",
+        "sentences": [
+          "The model performance was evaluated using the area under the receiver operating characteristic curve (AUC), accuracy, precision, recall, and F1 score.",
+          "Data from 264 adults with T1DM were analyzed.",
+          "Across the models, XGBoost showed the highest AUC, significantly outperforming logistic regression, k-NN, and SVM but performed marginally below Naive Bayes.",
+          "The F1-score analysis showed that logistic regression and neural networks provided a better balance between precision and recall.",
+          "The model using four CGM variables (TBR < 70, %CV, GMI, and GRI) achieved the highest AUC of 0.794.",
+          "XGBoost offers strong overall discrimination; however, simpler models exhibit better F1 performance.",
+          "Features like 'TBR', '%CV', 'GMI,' and 'GRI' were key features, suggesting their usefulness in identifying individuals at risk for adverse glycemic events.",
+          "Clinical Trial Registry No. UMIN000039376."
+        ]
+      },
+      {
+        "chunk_id": "PMID_41635446_chunk_2",
+        "sentences": [
+          "Features like 'TBR', '%CV', 'GMI,' and 'GRI' were key features, suggesting their usefulness in identifying individuals at risk for adverse glycemic events.",
+          "Clinical Trial Registry No. UMIN000039376.",
+          "The online version contains supplementary material available at 10.1007/s13340-025-00872-4."
+        ]
+      }
+    ],
+    "meta": {
+      "abstract_only": true
+    }
+  },
+  {
+    "doc_id": "PMID_41543854",
+    "source": "pubmed",
+    "chunks": [
+      {
+        "chunk_id": "PMID_41543854_chunk_0",
+        "sentences": [
+          "Berberine is a potential therapy for metabolic disorders, yet its effects on visceral adipose tissue (VAT) and liver fat remain uncertain.",
+          "To evaluate the efficacy and safety of berberine in reducing VAT area and liver fat content in diabetes-free individuals with obesity and metabolic dysfunction-associated steatotic liver disease (MASLD).",
+          "In this multicenter, double-blind randomized clinical trial, diabetes-free individuals with obesity and MASLD were enrolled at 11 hospitals in China between July 6 and December 29, 2023, with a follow-up duration of 6 months.",
+          "Participants were randomly assigned to receive either oral berberine, 1 g/d, or a matching placebo.",
+          "The primary outcomes were relative percentage change in VAT area and absolute change in liver fat content assessed by computed tomography.",
+          "Other outcomes included changes in parameters of glucose, lipids, and inflammation.",
+          "Analyses were conducted according to the intention-to-treat principle.",
+          "Among 337 randomized participants (mean [SD] age, 41.8"
+        ]
+      },
+      {
+        "chunk_id": "PMID_41543854_chunk_1",
+        "sentences": [
+          "Analyses were conducted according to the intention-to-treat principle.",
+          "Among 337 randomized participants (mean [SD] age, 41.8",
+          "[10.6] years; 221 [65.6%] male), 169 received berberine and 168 placebo.",
+          "The mean (SD) medication adherence rates were 90.3% (14.7%) for berberine and 90.7% (17.4%) for placebo.",
+          "No significant differences were observed between study arms for VAT area (1.4% [97.5% CI, -2.4% to 5.2%]) or liver fat content (0.9% [97.5% CI, -0.4% to 2.1%).",
+          "Berberine was associated with larger reductions in low-density lipoprotein cholesterol (-7.72 [95% CI, -13.13 to -1.93] mg/dL), apolipoprotein B (-3.42",
+          "[95% CI, -6.33 to -0.51] mg/dL) and high-sensitivity C-reactive protein (hs-CRP) (-0.072",
+          "[95% CI, -0.140 to -0.004] mg/dL) vs placebo, but not other secondary outcomes."
+        ]
+      },
+      {
+        "chunk_id": "PMID_41543854_chunk_2",
+        "sentences": [
+          "[95% CI, -6.33 to -0.51] mg/dL) and high-sensitivity C-reactive protein (hs-CRP) (-0.072",
+          "[95% CI, -0.140 to -0.004] mg/dL) vs placebo, but not other secondary outcomes.",
+          "The incidence of adverse events was similar between study arms.",
+          "Post hoc analyses suggested consistent patterns of larger reductions in low-density lipoprotein cholesterol, apolipoprotein B, and hs-CRP levels in participants with higher baseline hs-CRP levels.",
+          "In this randomized clinical trial of diabetes-free individuals with obesity and MASLD, a 6-month berberine treatment at a daily dose of 1 g had an excellent safety profile but did not reduce VAT area or liver fat content.",
+          "ClinicalTrials.gov",
+          "Identifier: NCT05647915."
+        ]
+      },
+      {
+        "chunk_id": "PMID_41543854_chunk_3",
+        "sentences": [
+          "Identifier: NCT05647915."
+        ]
+      }
+    ],
+    "meta": {
+      "abstract_only": true
+    }
+  }
+]
