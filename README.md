@@ -1,4 +1,4 @@
-# Clinical Text Summarization
+git s# Clinical Text Summarization
 
 A FastAPI-based web application that accepts medical PDF reports or scanned images, extracts their text, and returns a structured, patient-friendly summary powered by HuggingFace transformers.
 
