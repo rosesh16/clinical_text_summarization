@@ -207,3 +207,23 @@ marimo/_lsp/
 __marimo__/
 
 .vscode/settings.json
+
+# ── Project-specific ignores ──────────────────────────────────────────────────
+
+# Fine-tuned model weights (large binary files — use HuggingFace Hub to share)
+models/
+
+# Training checkpoints (intermediate saves, large — final model is in models/)
+models/finetuned-medical-t5/checkpoints/
+
+# Processed dataset splits (large, regeneratable via scripts/prepare_dataset.py)
+data/processed/pubmed_hf/
+
+# HuggingFace datasets cache
+.cache/
+~/.cache/huggingface/
+
+# PyTorch / training logs
+models/finetuned-medical-t5/logs/
+*.bin
+*.safetensors

@@ -3,8 +3,12 @@ hf_summarizer.py
 ----------------
 HuggingFace-based abstractive summarizer using a biomedical-fine-tuned model.
 
-Primary model : Falconsai/medical_summarization  (T5-based, medical domain)
-Fallback model: facebook/bart-large-cnn          (general, high quality)
+Model priority (auto-selected at startup):
+  1. Local fine-tuned model : models/finetuned-medical-t5/final  (if present)
+  2. Remote HF model        : Falconsai/medical_summarization     (fallback)
+  3. General fallback       : facebook/bart-large-cnn
+
+To update the local model, run:  python scripts/finetune.py
 
 Long documents are handled by chunking: each chunk is summarised individually,
 then the chunk-summaries are combined and summarised again (two-pass).
@@ -15,6 +19,7 @@ from __future__ import annotations
 import re
 import textwrap
 from functools import lru_cache
+from pathlib import Path
 from typing import Optional
 
 # transformers / torch are imported lazily inside _load_pipeline()
@@ -25,8 +30,30 @@ from typing import Optional
 # Constants
 # ---------------------------------------------------------------------------
 
-PRIMARY_MODEL   = "Falconsai/medical_summarization"
-FALLBACK_MODEL  = "facebook/bart-large-cnn"
+# Path to the locally fine-tuned model (relative to the project root)
+_LOCAL_MODEL_PATH = Path(__file__).resolve().parents[2] / "models" / "finetuned-medical-t5" / "final"
+_FALCONSAI_MODEL  = "Falconsai/medical_summarization"
+FALLBACK_MODEL    = "facebook/bart-large-cnn"
+
+
+def _resolve_primary_model() -> str:
+    """
+    Return the best available model identifier at startup.
+
+    Priority:
+      1. Local fine-tuned model (models/finetuned-medical-t5/final) — if present
+      2. Falconsai/medical_summarization                             — remote HF
+    """
+    if _LOCAL_MODEL_PATH.exists() and any(_LOCAL_MODEL_PATH.iterdir()):
+        print(f"[HF] Local fine-tuned model found: {_LOCAL_MODEL_PATH}")
+        return str(_LOCAL_MODEL_PATH)
+    print(f"[HF] No local model found at {_LOCAL_MODEL_PATH}.")
+    print(f"[HF] Using remote model: {_FALCONSAI_MODEL}")
+    print(f"[HF] Tip: run `python scripts/finetune.py` to create a local fine-tuned model.")
+    return _FALCONSAI_MODEL
+
+
+PRIMARY_MODEL = _resolve_primary_model()
 
 # Safe token limits (conservative — actual model limits are higher)
 MAX_INPUT_TOKENS = 900       # tokens per chunk fed to the model
@@ -44,13 +71,19 @@ SUMMARY_MAX_LEN  = 200
 @lru_cache(maxsize=1)
 def _load_pipeline(model_name: str):
     """Load and cache the summarization pipeline (lazy torch import)."""
+    import torch
     from transformers import pipeline  # deferred — avoids torch DLL crash at startup
+
+    device = 0 if torch.cuda.is_available() else -1   # 0 = first GPU, -1 = CPU
+    device_label = f"GPU (cuda:{device})" if device >= 0 else "CPU"
     print(f"[HF] Loading model: {model_name} (first call only)...")
+    print(f"[HF] Inference device: {device_label}")
     return pipeline(
         "summarization",
         model=model_name,
         tokenizer=model_name,
         truncation=True,
+        device=device,
     )
 
 

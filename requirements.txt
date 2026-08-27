@@ -34,3 +34,7 @@ opencv-python-headless
 transformers
 torch
 sentencepiece
+
+# ── Fine-tuning dependencies ──────────────────────────
+datasets>=2.14
+accelerate>=0.26
