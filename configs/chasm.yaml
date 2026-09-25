@@ -1,0 +1,30 @@
+# CHASM Phase 1: reproducible preprocessing for biomedical research papers.
+dataset:
+  name: ccdv/pubmed-summarization
+  description: PubMed biomedical research-paper summarization dataset
+
+input:
+  directory: data/processed/pubmed_hf
+  format: json_array
+  article_field: article
+  abstract_field: abstract
+  splits:
+    train: train.json
+    validation: val.json
+    test: test.json
+
+output:
+  directory: data/chasm/processed
+  report_filename: preprocessing_report.json
+
+cleaning:
+  remove_urls: true
+  remove_non_printable: true
+  normalize_whitespace: true
+  deduplicate_documents: true
+  # Empty documents are always removed. Empty summaries are retained by default
+  # so Phase 1 does not introduce an aggressive, unrequested quality filter.
+  drop_empty_summaries: false
+
+logging:
+  level: INFO

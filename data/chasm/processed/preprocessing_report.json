@@ -1,0 +1,101 @@
+{
+  "cross_split_document_id_overlap": {
+    "train_test": 0,
+    "train_validation": 0,
+    "validation_test": 0
+  },
+  "dataset_description": "PubMed biomedical research-paper summarization dataset",
+  "framework": "CHASM",
+  "input_files": {
+    "test": "data\\processed\\pubmed_hf\\test.json",
+    "train": "data\\processed\\pubmed_hf\\train.json",
+    "validation": "data\\processed\\pubmed_hf\\val.json"
+  },
+  "processing": {
+    "cleaning": {
+      "deduplicate_documents": true,
+      "drop_empty_summaries": false,
+      "normalize_whitespace": true,
+      "remove_non_printable": true,
+      "remove_urls": true
+    },
+    "deduplication_basis": "SHA-256 of cleaned document text; global train-validation-test order",
+    "document_id": "SHA-256 of original article text encoded as UTF-8"
+  },
+  "source_dataset": "ccdv/pubmed-summarization",
+  "splits": {
+    "test": {
+      "compression_ratio": {
+        "max": 214.37037037037038,
+        "mean": 16.05163109434633,
+        "min": 0.6050955414012739
+      },
+      "document_word_count": {
+        "max": 19731,
+        "mean": 3052.4505,
+        "min": 123
+      },
+      "duplicate_documents_removed": 0,
+      "input_records": 2000,
+      "output_records": 2000,
+      "skipped_empty_documents": 0,
+      "skipped_empty_summaries": 0,
+      "summary_word_count": {
+        "max": 472,
+        "mean": 204.2405,
+        "min": 31
+      }
+    },
+    "train": {
+      "compression_ratio": {
+        "max": 435.84057971014494,
+        "mean": 16.668857314490793,
+        "min": 0.3612040133779264
+      },
+      "document_word_count": {
+        "max": 68700,
+        "mean": 3133.306115305765,
+        "min": 103
+      },
+      "duplicate_documents_removed": 1,
+      "input_records": 20000,
+      "output_records": 19999,
+      "skipped_empty_documents": 0,
+      "skipped_empty_summaries": 0,
+      "summary_word_count": {
+        "max": 380,
+        "mean": 202.6456822841142,
+        "min": 43
+      }
+    },
+    "validation": {
+      "compression_ratio": {
+        "max": 334.1166666666667,
+        "mean": 16.143248669378522,
+        "min": 0.6623931623931624
+      },
+      "document_word_count": {
+        "max": 40094,
+        "mean": 3049.8795,
+        "min": 114
+      },
+      "duplicate_documents_removed": 0,
+      "input_records": 2000,
+      "output_records": 2000,
+      "skipped_empty_documents": 0,
+      "skipped_empty_summaries": 0,
+      "summary_word_count": {
+        "max": 518,
+        "mean": 203.953,
+        "min": 35
+      }
+    }
+  },
+  "totals": {
+    "duplicate_documents_removed": 1,
+    "input_records": 24000,
+    "output_records": 23999,
+    "skipped_empty_documents": 0,
+    "skipped_empty_summaries": 0
+  }
+}
